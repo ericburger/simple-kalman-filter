@@ -3,6 +3,7 @@
 The kalman_filter_functions.py file implements the Kalman Filter and Additive Unscented Kalman Filter algorithms as described in the papers Recursive Parameter Estimation of Thermostatically Controlled Loads via Unscented Kalman Filter by Eric Burger and Scott Moura and Piecewise Linear Thermal Model and Recursive Parameter Estimation of a Residential Heating System by Eric Burger, Hector Perez, and Scott Moura. The papers can be downloaded for free from http://escholarship.org/uc/item/7t453713 and http://escholarship.org/uc/item/8kx450mg, respectively. The functions in the kalman_filter_functions.py file are written to directly reflect the operator expressions in these papers. 
 
 In other words, I spent a lot of time explaining the Kalman Filter and Additive Unscented Kalman Filter algorithms in these two papers and wrote some Python code using the same notation. If you read through the Kalman Filter background sections, you should hopefully find it very easy to use and modify the code. Note: I have not included an implementation of the Augmented Unscented Kalman Filter. If you need the augmented form, I recommend https://github.com/pykalman/pykalman.
+
 The code licensed under the [MIT license][mit].
 
 [wcc]: <http://wallflower.cc>
