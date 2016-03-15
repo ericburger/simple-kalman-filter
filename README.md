@@ -4,7 +4,7 @@ The kalman_filter_functions.py file implements the Kalman Filter and Additive Un
 
 In other words, I spent a lot of time explaining the Kalman Filter and Additive Unscented Kalman Filter algorithms in these two papers and wrote some Python code using the same notation. If you read through the Kalman Filter background sections, you should hopefully find it very easy to use and modify the code. Note: I have not included an implementation of the Augmented Unscented Kalman Filter. If you need the augmented form, I recommend https://github.com/pykalman/pykalman.
 
-The code licensed under the [MIT license][mit].
+The code is licensed under the [MIT license][mit].
 
 [wcc]: <http://wallflower.cc>
 [wccdemo]: <http://wallflower.cc/demo>
